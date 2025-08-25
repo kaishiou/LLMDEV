@@ -1,0 +1,19 @@
+/* ヘッダー */
+.header {
+  color: #fff;             /* 文字色 */
+  background-color: #84ceef; /* 背景色 */
+  padding: 10px;
+}
+
+/* h1（ページタイトル） */
+.main h1 {
+  color: #e47292;          /* 文字色 */
+  text-align: center;      /* 中央寄せ */
+}
+
+/* フッター */
+.footer {
+  color: #fff;             /* 文字色 */
+  background-color: #040000; /* 背景色 */
+  padding: 5px;
+}
